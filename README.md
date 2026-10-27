@@ -20,7 +20,7 @@
 </div>
 <div align="center">
 &nbsp;
-<p>I'm an IT student at IFES (Federal Institute of Espírito Santo), currently in my final year of a technical high school program in Informatics. I'm focused on backend development, building my foundation in Java, Spring Boot, REST APIs, and relational databases.</p>
+<p>I'm an IT student at IFES (Instituto Federal do Espírito Santo), currently in my final year of a technical high school program in Informatics. I'm focused on backend development, building my foundation in Java, Spring Boot, REST APIs, and relational databases.</p>
 
 ## α Tech Stack
 
