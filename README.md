@@ -1,4 +1,4 @@
-<a href="https://github.com/KAYOKG">
+<a href="https://github.com/elizakoliveira">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=cf8278&height=200&section=header&text=ELIZA+OLIVEIRA&fontSize=36&fontColor=FFFFFF&fontAlignY=38&desc=+Backend+Developer&descSize=16&descAlignY=58&descColor=937CD5"/>
 </a>
 
@@ -8,20 +8,21 @@
   <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-Eliza%20Oliveira-cf8278?style=for-the-badge&logo=linkedin-white&logoColor=white" alt="LinkedIn" />
 </a>
 &nbsp;
-<a href="mailto:elizakyoliveira@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-contact%20me-FAF8E7?style=for-the-badge&logo=gmail&logoColor=cf8278" alt="Gmail" />
+<a href="https://github.com/elizakoliveira" target="_blank">
+  <img src="https://custom-icon-badges.demolab.com/badge/GitHub-My%20Projects-FAF8E7?style=for-the-badge&logo=github-white&logoColor=cf8278" alt="GitHub" />
 </a>
 &nbsp;
-<a href="https://github.com/elizakoliveira" target="_blank">
-  <img src="https://custom-icon-badges.demolab.com/badge/GitHub-My%20Projects-cf8278?style=for-the-badge&logo=github-white&logoColor=FAF8E7" alt="GitHub" />
+<a href="mailto:elizakyoliveira@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-contact%20me-cf8278?style=for-the-badge&logo=gmail&logoColor=FAF8E7" alt="Gmail" />
 </a>
+
 
 </div>
 <div align="center">
 &nbsp;
 <p>I'm an IT student at IFES (Federal Institute of Espírito Santo), currently in my final year of a technical high school program in Informatics. I'm focused on backend development, building my foundation in Java, Spring Boot, REST APIs, and relational databases.</p>
 
-## <span style="color: #cf8278;">α</span> Tech Stack
+## α Tech Stack
 
 </div>
 
@@ -62,7 +63,7 @@
 </div>
 <div align="center">
 
-## <span style="color: #cf8278;">Ω</span> Extra
+## Ω Extra
 
 <details><summary> Outside of coding </summary>
 
@@ -72,6 +73,6 @@ When I'm not coding, I'm probably playing guitar, studying music, reading, gamin
 </details>
 </div>
 
-<a href="https://github.com/KAYOKG">
+<a href="https://github.com/elizakoliveira">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=cf8278&height=160&section=footer&text=Based+in+Brazil,+ES&fontSize=22&fontColor=FFFFFF&fontAlignY=70"/>
 </a>
